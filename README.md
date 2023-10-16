@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gunveer-Singh
 - 👀 I’m interested in Python & FrontEnd 
-- 🌱 I’m currently learning Python Neural Networks and Computer Vision
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me => contactasssassings@gmail.com
 - 👀 My Website => https://gunveersingh.000webhostapp.com/
 
