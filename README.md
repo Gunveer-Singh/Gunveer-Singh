@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gunveer-Singh
+- 👋 Hi, I’m @Gunveer-Singh (Jammu)
 - 👀 I’m interested in Python & FrontEnd 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning C/C++
 - 📫 How to reach me => contactasssassings@gmail.com
-- 👀 My Website => https://gunveersingh.000webhostapp.com/
+
 
 <!---
 Gunveer-Singh/Gunveer-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
