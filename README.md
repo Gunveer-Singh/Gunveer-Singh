@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gunveer-Singh (Jammu)
+- 👋 Hi, I’m @Gunveer-Singh (From Jammu)
 - 👀 I’m interested in Python & FrontEnd 
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me => contactasssassings@gmail.com
