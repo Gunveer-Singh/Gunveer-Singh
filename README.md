@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gunveer-Singh (From Jammu)
 - 👀 I’m interested in Python & FrontEnd 
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C++
 - 📫 How to reach me => contactasssassings@gmail.com
 
 
