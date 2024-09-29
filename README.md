@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
-## <img src="https://camo.githubusercontent.com/e83f80d1250066c3548109947a008f158698cb17cbf5769cba268a572eb1f760/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65622f35302f38372f65623530383735613638623034623034383066613932396166326337353437632e676966" width="40"> **About Me:**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **String Processing in Python**
 - 🌱 I’m currently learning **OOPS in C++**
@@ -12,7 +12,7 @@
 - 💬 Ask me about **Hacking, Java, HTML and CSS.**
 - 📃 My resume - [View!](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view?usp=sharing)
 
-  ## <img src="https://media.giphy.com/media/WiIuC6fAOoXD2/giphy.gif" width="40"> **Streak Info**:
+  ## <img src="https://camo.githubusercontent.com/e83f80d1250066c3548109947a008f158698cb17cbf5769cba268a572eb1f760/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65622f35302f38372f65623530383735613638623034623034383066613932396166326337353437632e676966" width="40"> **Streak Info**:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pralinkhaira&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
