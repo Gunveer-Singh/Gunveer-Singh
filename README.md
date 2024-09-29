@@ -87,15 +87,4 @@
 	</ul>
 </details>
 
----
 
-### Dev Meme Of The Day!
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
-
----
-### Dev Quote Of The Day!
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>center>
