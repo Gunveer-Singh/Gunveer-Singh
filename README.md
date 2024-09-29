@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+## <img src="https://camo.githubusercontent.com/e83f80d1250066c3548109947a008f158698cb17cbf5769cba268a572eb1f760/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65622f35302f38372f65623530383735613638623034623034383066613932396166326337353437632e676966" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **String Processing in Python**
 - 🌱 I’m currently learning **OOPS in C++**
