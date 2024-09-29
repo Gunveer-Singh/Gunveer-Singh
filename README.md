@@ -81,11 +81,8 @@
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
   	   <li><b>OS:</b> Windows 11 </li>
-	     <li><b>Laptop: </b> Lenovo Legion 5 Intel Core i7 11th Gen</li>
-  	   <li><b>Browser: </b> Chrome Web Browser</li>
-	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Linkedin </li>
-	     <li><b>Chit-Chat:</b> Instagram </li>
+	     <li><b>Laptop: </b> HP Pavillion 15"</li>
+	     <li><b>Code Editor:</b> VSCode + PyCharm</li>
 	    <br />
 	</ul>
 </details>
