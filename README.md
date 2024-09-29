@@ -12,8 +12,9 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Gunveer-Singh" target="blank">Github.com</a>
 - 💬 Ask me about **Python, C++, HTML and CSS.**
 
-<br><br><br><br> ##
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+<br><br><br><br> 
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
