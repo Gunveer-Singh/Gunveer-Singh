@@ -5,10 +5,10 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Hacking Skills**
-- 🌱 I’m currently learning **Competitive programming and DSA.**
-- 👯 I’m looking to collaborate on **Web Development Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/pralinkhaira?tab=repositories" target="blank">Github.com</a>
+- 🔭 I’m currently working on **String Processing in Python**
+- 🌱 I’m currently learning **OOPS in C++**
+- 👯 I’m looking to collaborate on **Python Development Projects.**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Gunveer-Singh" target="blank">Github.com</a>
 - 💬 Ask me about **Hacking, Java, HTML and CSS.**
 - 📃 My resume - [View!](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view?usp=sharing)
 
