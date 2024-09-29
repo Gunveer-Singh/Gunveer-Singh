@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gunveer Singh</h1>
 <h3 align="center">A Passionate Python Developer</h3>
 
-<img align="right" src= "https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="400" alt="coder">
+<center><img align="right" src= "https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="400" alt="coder"></center>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gunveer-singh&label=Profile%20views&color=0e75b6&style=flat" alt="gunveer-singh" /> </p>
 
