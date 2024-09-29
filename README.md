@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"> -->
 <img align="right" alt="coding" width="500" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **String Processing in Python**
 - 🌱 I’m currently learning **OOPS in C++**
@@ -13,7 +13,7 @@
 - 💬 Ask me about **Python, C++, HTML and CSS.**
 
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
