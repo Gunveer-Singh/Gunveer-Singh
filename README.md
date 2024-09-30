@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"> -->
 <img align="right" alt="coding" width="500" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+<img src="https://media1.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif?cid=6c09b952s6s6bf4edqyj9070dfwxjw3vvdw0iqyp6u4dofs6&ep=v1_gifs_search&rid=200w.gif&ct=g" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **String Processing in Python**
 - 🌱 I’m currently learning **OOPS in C++**
