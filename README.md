@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Gunveer Singh 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Gunveer Singh (CSE Undergrad), a passionate Python Developer</h3>
+<h1 align="center">Hello 👋, I'm Gunveer Singh 🚀️</h1>
+<h3 align="center">A passionate Python Developer ! (CSE Undergrad)</h3>
 <br><br>
 <!-- <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"> -->
 <img align="right" alt="coding" width="300" height= "300" src="https://i.giphy.com/B4dt6rXq6nABilHTYM.webp">
