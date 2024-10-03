@@ -77,7 +77,6 @@
 
 
 
-
 <details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
@@ -88,5 +87,8 @@
 	    <br />
 	</ul>
 </details>
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Gunveer-Singh/Gunveer-Singh/output/snake.svg" alt="Snake animation" />
 
 
