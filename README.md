@@ -47,7 +47,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/gunveer-singh-71874425b" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="pralinkhaira" /></a>
+<a href="https://linkedin.com/in/gunveer-singh-assassings" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="pralinkhaira" /></a>
 
 
 <p align="center"><b>Profile Visitors</b></p>
