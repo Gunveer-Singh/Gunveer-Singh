@@ -6,8 +6,6 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **String Processing in Python**
-- 🌱 I’m currently learning **OOPS in C++**
 - 👯 I’m looking to collaborate on **Python Development Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Gunveer-Singh" target="blank">Github.com</a>
 - 💬 Ask me about **Python, C++, HTML and CSS.**
