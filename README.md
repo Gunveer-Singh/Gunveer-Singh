@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gunveer Singh 🚀️</h1>
 <h3 align="center">A passionate Python Developer ! (CSE Undergrad)</h3>
 <br><br>
-<img align="right" alt="coding" width="300" style= "border: 1px solid white; border-radius:50%;" src="https://i.pinimg.com/originals/c7/c2/a8/c7c2a8eebe396573265db23e8cab9cbc.gif">
+<img align="right" alt="coding" width="280" src="https://i.pinimg.com/originals/c7/c2/a8/c7c2a8eebe396573265db23e8cab9cbc.gif">
 <!-- <img align="right" alt="coding" width="300" height= "300" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif"> -->
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
