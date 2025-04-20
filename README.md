@@ -45,40 +45,6 @@
 <p align="center"><b>Profile Visitors</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/gunveer-singh/count.svg" alt="visitor badge"/></p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-<details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/gunveer-singh">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=gunveer-singh&theme=gotham&hide_border=true&include_all_commits=false&count_private=false">
-  </a>
- </p>
-</details>
-
-<details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
- <br />
- <p align="center">
-	 <a href="#">
-   <img src="https://github-profile-trophy.vercel.app/?username=gunveer-singh&column=8&theme=darkhub"/>
-  </a>
- </p>
-</details>
-
-
-
-<details>
-  <br />
-  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
-  	<ul>
-  	   <li><b>OS:</b> Windows 11 </li>
-	     <li><b>Laptop: </b> HP Pavillion 15"</li>
-	     <li><b>Code Editor:</b> VSCode + PyCharm</li>
-	    <br />
-	</ul>
-</details>
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Gunveer-Singh/Gunveer-Singh/output/snake.svg" alt="Snake animation" />
