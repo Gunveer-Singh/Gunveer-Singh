@@ -4,14 +4,6 @@
 <img align="right" alt="coding" width="280" src="https://media1.giphy.com/media/Bvsv6ROq1s70MPVVdp/giphy.gif?cid=6c09b952zr7rl4dlfbc30e4oc6asaear02kfi0hnwnhzavmp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 <!-- <img align="right" alt="coding" width="300" height= "300" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif"> -->
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-
-- 👯 I’m looking to collaborate on **Python Development Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Gunveer-Singh" target="blank">Github.com</a>
-- 💬 Ask me about **Python, C++, HTML and CSS.**
-
-<br><br><br><br> 
-
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <div align="left">
