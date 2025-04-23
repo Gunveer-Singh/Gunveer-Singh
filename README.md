@@ -1,10 +1,10 @@
-<h1 align="center">Hello 👋, I'm Gunveer Singh 🚀️</h1>
-
-<h3 align="center">A passionate Python Developer! (CSE Undergrad)</h3>
+<h1 align="center">Hello 👋, I'm <span style="text-decoration: none;">Gunveer Singh</span> 🚀️</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+
+<h3 align="center">A passionate Python Developer! (CSE Undergrad)</h3>
 
 <br><br>
 
