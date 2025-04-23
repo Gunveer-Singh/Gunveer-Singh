@@ -1,6 +1,7 @@
-<div align="center">
-  <h1 style="text-decoration: none; border: none;">Hello 👋, I'm Gunveer Singh 🚀️</h1>
-</div>
+<p align="center">
+  <strong><span style="font-size: 28px;">Hello 👋, I'm Gunveer Singh 🚀️</span></strong>
+</p>
+
 <h3 align="center">A passionate Python Developer! (CSE Undergrad)</h3>
 
 <p align="center">
