@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2.5em; font-weight: bold; text-decoration: none;">
+<p align="center" style="font-size: 10em; font-weight: bold; text-decoration: none;">
   Hello 👋, I'm Gunveer Singh 🚀️
 </p>
 <h3 align="center">A passionate Python Developer! (CSE Undergrad)</h3>
