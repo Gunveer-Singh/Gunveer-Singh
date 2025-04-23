@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size: 28px;">Hello 👋, I'm Gunveer Singh 🚀️</span></strong>
+  <strong><span style="font-size: 50px;">Hello 👋, I'm Gunveer Singh 🚀️</span></strong>
 </p>
 
 <h3 align="center">A passionate Python Developer! (CSE Undergrad)</h3>
