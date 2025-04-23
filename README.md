@@ -1,4 +1,6 @@
-<h1 align="center">Hello 👋, I'm <span style="text-decoration: none;">Gunveer Singh</span> 🚀️</h1>
+<p align="center" style="font-size: 2.5em; font-weight: bold; text-decoration: none;">
+  Hello 👋, I'm Gunveer Singh 🚀️
+</p>
 <h3 align="center">A passionate Python Developer! (CSE Undergrad)</h3>
 
 <p align="center">
