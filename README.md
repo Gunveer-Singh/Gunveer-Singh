@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Gunveer Singh 🚀️</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400px">
 <h3 align="center">A passionate Python Developer ! (CSE Undergrad)</h3>
 <br><br>
 <!-- <img align="right" alt="coding" width="280" src="https://media1.giphy.com/media/Bvsv6ROq1s70MPVVdp/giphy.gif?cid=6c09b952zr7rl4dlfbc30e4oc6asaear02kfi0hnwnhzavmp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> -->
 <!-- <img align="right" alt="coding" width="300" height= "300" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif"> -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400px">
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="100"> **Languages & Tools:**
 
 <div align="left">
